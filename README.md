@@ -1,6 +1,6 @@
-# Delani Studio 2023
+## Delani Studio 2023
 
-#Delani Studio Porfolio Website
+# Delani Studio Porfolio Website
 
 This is a public website for Delani Studio, get to view our amazing portfolio.
 
