@@ -8,6 +8,13 @@ The site is built with Bootstrap, JQuery and HTML5.
 
 You will find among other things our Location and a Contact form for reviews and internal communication.
 
-To install this website you will require to checkout this project into an Apache www folder and assign the an accesible url.
+To install this website you will require to:
+1. checkout this project into an Apache www folder.
 
-`git checkout ......add git url`
+    `git checkout https://github.com/Timzyofficial/Delani-Studio-2023.git`
+
+2. Assign the an accesible url.
+
+---
+
+Contact the devloper via timzy@dev.code
