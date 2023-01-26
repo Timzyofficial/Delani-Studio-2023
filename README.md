@@ -17,16 +17,6 @@ To install this website you will require to:
 
 To view a demo visit: https://github.com/Timzyofficial/Delani-Studio-2023.git
 
-Akan web app is written in html, css and javascript.
-
-Installation Instruction:
-Clone the source code as show below:
-
-git clone https://github.com/Timzyofficial/Delani-Studio-2023.git
-
-Then;
-
-Run the index.html with any browser installed in the machine.
 
 License
 MIT
