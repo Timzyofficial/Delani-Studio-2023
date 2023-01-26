@@ -18,3 +18,5 @@ To install this website you will require to:
 ---
 
 Contact the devloper via timzy@dev.code
+
+---
