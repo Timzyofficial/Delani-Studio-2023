@@ -15,7 +15,7 @@ To install this website you will require to:
 
 2. Author Name: Timothy Karanja
 
-To view a demo visit: https://github.com/Timzyofficial/Delani-Studio-2023.git
+To view a demo visit: https://timzyofficial.github.io/Delani-Studio-2023/
 
 
 License
