@@ -15,8 +15,12 @@ To install this website you will require to:
 
 2. Assign the an accesible url.
 
+3. Edit the index.html file to add any desired changes.
+
+Enjoy!!!
+
 ---
 
-Contact the devloper via timzy@dev.code
+Contact the devloper via   timzy@dev.code
 
 ---
