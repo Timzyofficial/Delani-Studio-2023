@@ -15,7 +15,7 @@ To install this website you will require to:
 
 2. Author Name: Timothy Karanja
 
-To view a demo visit: http://timzyofficial.github.io/akan-name-ip/
+To view a demo visit: https://github.com/Timzyofficial/Delani-Studio-2023.git
 
 Akan web app is written in html, css and javascript.
 
